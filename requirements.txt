@@ -1,0 +1,10 @@
+streamlit
+langgraph
+langchain-community
+langchain-ollama
+ollama
+pandas
+plotly
+chromadb
+unstructured
+python-magic-bin   # Windows için, Linux/Mac için python-magic
